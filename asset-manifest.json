@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dynamic-react-portal/static/css/main.d9c64c87.chunk.css",
+    "main.js": "/Dynamic-react-portal/static/js/main.4c788830.chunk.js",
+    "main.js.map": "/Dynamic-react-portal/static/js/main.4c788830.chunk.js.map",
+    "runtime-main.js": "/Dynamic-react-portal/static/js/runtime-main.e3fa7149.js",
+    "runtime-main.js.map": "/Dynamic-react-portal/static/js/runtime-main.e3fa7149.js.map",
+    "static/js/2.7508a4d8.chunk.js": "/Dynamic-react-portal/static/js/2.7508a4d8.chunk.js",
+    "static/js/2.7508a4d8.chunk.js.map": "/Dynamic-react-portal/static/js/2.7508a4d8.chunk.js.map",
+    "static/js/3.b9e25137.chunk.js": "/Dynamic-react-portal/static/js/3.b9e25137.chunk.js",
+    "static/js/3.b9e25137.chunk.js.map": "/Dynamic-react-portal/static/js/3.b9e25137.chunk.js.map",
+    "index.html": "/Dynamic-react-portal/index.html",
+    "static/css/main.d9c64c87.chunk.css.map": "/Dynamic-react-portal/static/css/main.d9c64c87.chunk.css.map",
+    "static/js/2.7508a4d8.chunk.js.LICENSE.txt": "/Dynamic-react-portal/static/js/2.7508a4d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3fa7149.js",
+    "static/js/2.7508a4d8.chunk.js",
+    "static/css/main.d9c64c87.chunk.css",
+    "static/js/main.4c788830.chunk.js"
+  ]
+}
