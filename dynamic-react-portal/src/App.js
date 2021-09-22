@@ -18,6 +18,7 @@ function App() {
         setAppState({ loading: false, repos: repos });
       });
   }, [setAppState]);
+  
   return (
     <div className='App'>
       <div className='container'>
